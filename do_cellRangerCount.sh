@@ -1,4 +1,6 @@
 #/bin/bash
+
+## some change
 cellranger count --id=NSF1 \
                  --transcriptome=/path/to/cellrangeRef/refdata-cellranger-GRCh38-3.0.0/ \
                  --fastqs=/path/to/rawData \
